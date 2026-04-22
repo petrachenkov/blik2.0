@@ -1,0 +1,24 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.ENV.*
+.venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Database
+blik.db
+
+# Environment variables
+.env
+.env.local
+.env.*
+```
